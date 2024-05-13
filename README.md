@@ -14,9 +14,3 @@ Task 5 boosted my data analysis skills, refining techniques like cleaning and ex
 
 Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let's learn and grow together!
 
-## Contact Information
-
-For any inquiries or collaborations, feel free to reach out:
-
-- Email: [daksh22222@gmail.com](mailto:daksh22222@gmail.com)
-- LinkedIn: [Daksh Tyagi](https://www.linkedin.com/in/daksh-tyagi/)
